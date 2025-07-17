@@ -1,2 +1,6 @@
+title: Statistics Learning
+theme: minima
+permalink: pretty
+markdown: kramdown
 plugins:
   - jekyll-mermaid
