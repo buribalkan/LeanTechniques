@@ -50,7 +50,7 @@ Lean A3 is a structured problem-solving tool that fits on a single A3 sheet. It 
 ## 3. Example Process Flow (Current Condition)
 
 
-
+<pre class="mermaid">
 ```mermaid
 
 flowchart TD
@@ -69,7 +69,7 @@ flowchart TD
 
 
 ```
-
+</pre>
 
 
 
