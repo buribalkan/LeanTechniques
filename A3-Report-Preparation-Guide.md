@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lean A3 Report Preparation Guide
+---
+
 # Lean A3 Report Preparation Guide
 
 
