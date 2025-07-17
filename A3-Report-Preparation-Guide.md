@@ -35,8 +35,11 @@ Lean A3 is a structured problem-solving tool that fits on a single A3 sheet. It 
 - **Root Cause Analysis:** Identified root causes
 - **Countermeasures:** Proposed solutions
 - **Action Plan:** Implementation steps
-- **Results:** Measured outcomes
+- **Implement and Monitor:** Track progress regularly
+- **Measure and Record Results:** Collect post-implementation data
 - **Lessons Learned:** Key takeaways
+
+  
 
 
 ## 3. Example Process Flow (Current Condition)
@@ -159,5 +162,5 @@ Preparing an effective A3 report involves a clear, structured approach to proble
 
 
 
-Keep diagrams simple and readable.
-Combine diagrams with concise text explanations.
+> 🧠 Keep diagrams simple and readable.
+> 🧠 Combine diagrams with concise text explanations.
